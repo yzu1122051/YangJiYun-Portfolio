@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":false,"name":"惡魔城堡 1F","order":1,"parentId":0,"scrollX":1270.6666666666667,"scrollY":624},
+{"id":2,"expanded":false,"name":"醫院","order":3,"parentId":0,"scrollX":1081.3333333333333,"scrollY":644},
+{"id":3,"expanded":true,"name":"惡魔城堡 2F","order":2,"parentId":0,"scrollX":1270.6666666666667,"scrollY":1774.6666666666667},
+{"id":4,"expanded":false,"name":"醫院","order":4,"parentId":0,"scrollX":1081.3333333333333,"scrollY":609.3333333333334},
+{"id":5,"expanded":false,"name":"醫院","order":5,"parentId":0,"scrollX":1081.3333333333333,"scrollY":670.6666666666666},
+{"id":6,"expanded":true,"name":"實驗室","order":6,"parentId":0,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":7,"expanded":false,"name":"MAP007","order":7,"parentId":6,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":8,"expanded":false,"name":"醫院","order":8,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1184},
+{"id":9,"expanded":false,"name":"辦公室 2F","order":9,"parentId":0,"scrollX":1081.3333333333333,"scrollY":830.6666666666666},
+{"id":10,"expanded":true,"name":"實驗室","order":10,"parentId":0,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":11,"expanded":true,"name":"塔樓 1F","order":12,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1264},
+{"id":12,"expanded":false,"name":"實驗室","order":11,"parentId":10,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":13,"expanded":false,"name":"塔樓 1F","order":13,"parentId":11,"scrollX":1081.3333333333333,"scrollY":1249.3333333333333},
+{"id":14,"expanded":false,"name":"房子 1","order":14,"parentId":0,"scrollX":1092,"scrollY":609.3333333333334}
+]
